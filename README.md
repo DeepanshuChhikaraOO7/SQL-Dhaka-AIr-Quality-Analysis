@@ -109,9 +109,3 @@ This SQL-based exploration confirmed three major insights about Dhaka’s air qu
 - SQL is a powerful tool not just for querying, but for **pattern discovery and hypothesis testing**.  
 - Unexpected results can uncover **hidden assumptions** or **data flaws** — valuable insights in themselves.
 
----
-
-## 🏁 Future Work
-- Incorporate **real-world meteorological data** for validation.  
-- Use **Python + SQL** integration (e.g., Pandas, Matplotlib) for visualization.  
-- Expand analysis to include **correlations between multiple pollutants** (PM2.5, NO₂, CO, etc.).
